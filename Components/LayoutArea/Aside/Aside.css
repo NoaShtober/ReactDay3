@@ -1,0 +1,13 @@
+.Aside {
+    padding: 10px;
+    flex-direction: column;
+    display: flex;
+    gap:20px;
+
+}
+
+.Aside > .active {
+    color: green
+}
+
+
